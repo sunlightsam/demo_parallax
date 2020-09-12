@@ -26,4 +26,4 @@
 
 ### 主頁
 
-![主頁](https://github.com/sunlightsam/demo_vuex/blob/gh-pages/about_readme/demo01.png)
+![主頁](https://github.com/sunlightsam/demo_vuex/blob/gh-pages/about_readme/demo01.jpg)
