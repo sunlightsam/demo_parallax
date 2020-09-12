@@ -1,4 +1,4 @@
-# Demo (Vue2 + Vuex + Firebase)
+# Parallax HTML
 
 > 個人展示頁面，無商用。
 > `https://sunlightsam.github.io/demo_parallax/`
@@ -11,7 +11,7 @@
 
 可掃描方式前往。
 
-![掃描前往](https://github.com/sunlightsam/demo_vuex/blob/gh-pages/about_readme/demo_link.png)
+![掃描前往](https://github.com/sunlightsam/demo_parallax/blob/gh-pages/about_me/demo_link.png)
 
 ## 原始檔案可參考
 
@@ -26,4 +26,4 @@
 
 ### 主頁
 
-![主頁](https://github.com/sunlightsam/demo_vuex/blob/gh-pages/about_readme/demo01.jpg)
+![主頁](https://github.com/sunlightsam/demo_parallax/blob/gh-pages/about_me/demo01.jpg)
