@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+# Demo (Vue2 + Vuex + Firebase)
 
-You can use the [editor on GitHub](https://github.com/sunlightsam/demo_parallax/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
+> 個人展示頁面，無商用。
+> `https://sunlightsam.github.io/demo_parallax/`
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![作品展示連結](https://sunlightsam.github.io/demo_parallax/)
 
-### Markdown
+前往: <https://sunlightsam.github.io/demo_parallax/>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 透過 QR Code 前往
 
-```markdown
-Syntax highlighted code block
+可掃描方式前往。
 
-# Header 1
-## Header 2
-### Header 3
+![掃描前往](https://github.com/sunlightsam/demo_vuex/blob/gh-pages/about_readme/demo_link.png)
 
-- Bulleted
-- List
+![作品展示連結](https://sunlightsam.github.io/demo_vuex/)
 
-1. Numbered
-2. List
+## 原始檔案可參考
 
-**Bold** and _Italic_ and `Code` text
+> https://github.com/sunlightsam/demo_parallax
 
-[Link](url) and ![Image](src)
-```
+前往: <https://github.com/sunlightsam/demo_parallax>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## 相關使用
 
-### Jekyll Themes
+- Bootstrap4
+- AOS.js
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sunlightsam/demo_parallax/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## 作品簡圖
 
-### Support or Contact
+### 主頁
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![主頁](https://github.com/sunlightsam/demo_vuex/blob/gh-pages/about_readme/demo01.png)
