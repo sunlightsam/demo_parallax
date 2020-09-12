@@ -13,13 +13,9 @@
 
 ![掃描前往](https://github.com/sunlightsam/demo_vuex/blob/gh-pages/about_readme/demo_link.png)
 
-![作品展示連結](https://sunlightsam.github.io/demo_vuex/)
-
 ## 原始檔案可參考
 
 > https://github.com/sunlightsam/demo_parallax
-
-前往: <https://github.com/sunlightsam/demo_parallax>
 
 ## 相關使用
 
